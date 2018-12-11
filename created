@@ -1,0 +1,46 @@
+---
+comment: Created by ALB v2.0.5
+files:
+- pax_global_header
+- created
+- default/
+- default/bgr_pins/
+- default/bgr_pins/layout
+- default/bgr_top/
+- default/bgr_top/extracted
+- default/bgr_top/layout
+- default/dioblock/
+- default/dioblock/layout
+- default/glade.lib
+- default/nch/
+- default/nch/layout
+- default/nch1x10/
+- default/nch1x10/layout
+- default/nch1x20/
+- default/nch1x20/layout
+- default/nchblock/
+- default/nchblock/layout
+- default/pch/
+- default/pch/layout
+- default/pch1x10/
+- default/pch1x10/layout
+- default/pch1x20/
+- default/pch1x20/layout
+- default/pchblock/
+- default/pchblock/extracted
+- default/pchblock/layout
+- default/pchdiode/
+- default/pchdiode/layout
+- default/protection/
+- default/protection/layout
+- default/res4k/
+- default/res4k/layout
+- default/res500/
+- default/res500/layout
+- default/res980k/
+- default/res980k/layout
+- default/res98k/
+- default/res98k/layout
+- default/temp/
+- default/temp/layout
+- post_unzip.rb.old
