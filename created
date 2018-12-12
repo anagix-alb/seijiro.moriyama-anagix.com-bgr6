@@ -10,6 +10,7 @@ files:
 - default/bgr_top/extracted
 - default/bgr_top/layout
 - default/dioblock/
+- default/dioblock/extracted
 - default/dioblock/layout
 - default/glade.lib
 - default/nch/
@@ -19,6 +20,7 @@ files:
 - default/nch1x20/
 - default/nch1x20/layout
 - default/nchblock/
+- default/nchblock/extracted
 - default/nchblock/layout
 - default/pch/
 - default/pch/layout
@@ -57,4 +59,6 @@ files:
 - default/res98k/layout
 - default/temp/
 - default/temp/layout
+- default/test_dioblk/
+- default/test_dioblk/layout
 - post_unzip.rb.old
